@@ -4,6 +4,7 @@
 # KokoAI - We change - Smart Cocoa. 
 
 KokoAI is a cocoa diseases detection app for Ghanaian farmers.
+Our devpost: https://devpost.com/software/kokoai?ref_content=my-projects-tab&ref_feature=my_projects
 
 ## Inspiration
 Challenge setter: KNUST
