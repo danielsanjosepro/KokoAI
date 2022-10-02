@@ -1,5 +1,9 @@
+<img align="right" width="100" src="https://user-images.githubusercontent.com/42489409/193446094-bf082ec4-d8b7-485c-963d-ba544ecc521a.png">
+
+
 # KokoAI
-KokoAI is a cocoa diseases detection app.
+
+KokoAI is a cocoa diseases detection app for Ghanaian farmers.
 
 ## Inspiration
 Challenge setter: KNUST
