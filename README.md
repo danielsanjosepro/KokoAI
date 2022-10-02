@@ -1,4 +1,4 @@
-<img align="right" width="300" style="border-radius: 10%" src="https://user-images.githubusercontent.com/42489409/193446094-bf082ec4-d8b7-485c-963d-ba544ecc521a.png">
+<img align="right" width="300" style="border-radius: 50%;" src="https://user-images.githubusercontent.com/42489409/193446094-bf082ec4-d8b7-485c-963d-ba544ecc521a.png">
 
 
 # KokoAI - We change - Smart Cocoa. 
